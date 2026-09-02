@@ -1,0 +1,13 @@
+/images
+.DS_Store
+__pycache__/
+*.jpg
+*.jpeg
+training/runs/**/*.pt
+training/splits*.csv
+.dvc/config
+.venv/
+mlruns/
+mlflow.db
+train_all_models.log
+*.log
